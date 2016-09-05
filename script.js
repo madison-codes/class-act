@@ -24,7 +24,7 @@ function draw() {
 
   fill(123, 231, 132);
   textAlign(RIGHT);
-  text("WE ARE AWESOME!!!!", width/2, height/2);
+  // text("WE ARE AWESOME!!!!", width/2, height/2);
   //draw all the sprites added to the sketch so far
   //the positions will be updated automatically at every cycle
   drawSprites();
